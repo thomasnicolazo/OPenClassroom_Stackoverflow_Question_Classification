@@ -11,6 +11,7 @@ L'ensemble du projet est présenté sous la forme d'un notebook d'exploration et
  - BERT
  -  Universal sentence encoder (USE)
 
+Les tags fournis dans le jeu de données ont été regroupés en fonction de leurs similarités (voir notebook d'exploration). Ces tags regroupés seront utilisés pour l'entrainement des modèles.
 La comparaison des prédictions des tags se fera avec des méthodes supervisées (Random Forest, logistic regression) et une méthodes non supervisée LDA. 
 la métrique utilisée pour comparer  est la F1 score.
  Une API de suggéstion de tags à destination des utilisateurs de stackOverflow avec l'encoder USE est disponible [ici](https://github.com/thomasnicolazo/webapp_Stackoverflow_Question_Classification)).
