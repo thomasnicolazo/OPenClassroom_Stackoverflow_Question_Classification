@@ -10,6 +10,7 @@ L'ensemble du projet est présenté sous la forme d'un notebook d'exploration et
  -  word2vec (W2V)
  - BERT
  -  Universal sentence encoder (USE)
- la métrique utilisée pour comparer ces 4 encodeurs est la F1 score.
+ 
+la métrique utilisée pour comparer ces 4 encodeurs est la F1 score.
  Une [API](https://github.com/thomasnicolazo/webapp_Stackoverflow_Question_Classification) de suggéstion de tags pour les questtions de stackOverflow avec l'encoder USE est disponible.
  
